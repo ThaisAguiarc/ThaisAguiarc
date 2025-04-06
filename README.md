@@ -17,7 +17,7 @@ Me chamo Thaís, tenho 19 anos. E atualmente, estou embarcando nessa jornada de 
 
 ### 🌎 Minhas redes:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/thaís-aguiarc) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/thaís-aguiarc) 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ThaisAguiarc)
 
 ### 📊 Estatísticas
